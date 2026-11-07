@@ -1,0 +1,1 @@
+print("my name is Rizwan and go to https://quran-setup--99nfgb0p.preview.emergentagent.com/")
